@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/breakingbad/static/css/main.211b9b7c.chunk.css",
-    "main.js": "/breakingbad/static/js/main.c49fd23a.chunk.js",
-    "main.js.map": "/breakingbad/static/js/main.c49fd23a.chunk.js.map",
+    "main.js": "/breakingbad/static/js/main.d6e8ba06.chunk.js",
+    "main.js.map": "/breakingbad/static/js/main.d6e8ba06.chunk.js.map",
     "runtime-main.js": "/breakingbad/static/js/runtime-main.3fc68e8d.js",
     "runtime-main.js.map": "/breakingbad/static/js/runtime-main.3fc68e8d.js.map",
     "static/js/2.cede1786.chunk.js": "/breakingbad/static/js/2.cede1786.chunk.js",
     "static/js/2.cede1786.chunk.js.map": "/breakingbad/static/js/2.cede1786.chunk.js.map",
     "index.html": "/breakingbad/index.html",
-    "precache-manifest.da1c460b6183667cb33c719034b7f9a4.js": "/breakingbad/precache-manifest.da1c460b6183667cb33c719034b7f9a4.js",
+    "precache-manifest.52d61a9be09a7deb21532f1c411b65c4.js": "/breakingbad/precache-manifest.52d61a9be09a7deb21532f1c411b65c4.js",
     "service-worker.js": "/breakingbad/service-worker.js",
     "static/css/main.211b9b7c.chunk.css.map": "/breakingbad/static/css/main.211b9b7c.chunk.css.map",
     "static/media/index.css": "/breakingbad/static/media/logo.427a4adc.svg"
